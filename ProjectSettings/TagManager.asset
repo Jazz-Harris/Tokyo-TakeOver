@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Track
+  - Background
+  - BlueSabatoge
+  - WhiteSabatoge
+  - End Goal
+  - Point1
+  - Point2
+  - Point3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Final Background
+    uniqueID: 962411651
+    locked: 0
+  - name: Background
+    uniqueID: 1998644189
+    locked: 0
+  - name: Middle Ground
+    uniqueID: 4280102211
+    locked: 0
+  - name: Foreground
+    uniqueID: 3495221619
+    locked: 0
+  - name: Top
+    uniqueID: 2879396583
+    locked: 0
